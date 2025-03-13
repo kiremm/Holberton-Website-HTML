@@ -1,3 +1,2 @@
-# odin-recipes
-Odin Reecipe HTML webpage practice
-This has been a hands on experience in learning html. Not gonna lie, there was a lot of youtube videos used to create the eng project which I'm happy with. I manage to put my own twist after learning how to take my HTML skills to the next level. I Rrefuesed to use CSS so that the project was done fully by html although there were many times I wanted to keep adding more unique components. For not having any type of experience coding, I'm happy I could acomplish this. I feel the need to clean up more my code so it isnt all around lmao. I'll keep learning as I go!
+#Holberton Website HTML
+This is a personal website I repurposed as part of my entry to Holberton School. It serves as a showcase for my HTML skills and is designed to demonstrate my ability to build clean, responsive, and functional web pages
